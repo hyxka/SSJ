@@ -1,0 +1,248 @@
+a:visited
+{
+    color: rgb(0, 0, 0);
+}
+
+a:link
+{
+    color: rgb(247, 247, 221);
+    
+}
+
+a
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img:hover
+{
+    transform: scale(2);
+}
+
+img
+{
+    border-radius: 50px;
+}
+
+h4
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+text
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header
+{
+    color: rgb(248, 208, 32);
+    border: solid;
+    border-radius: 50px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(241, 167, 223)
+}
+
+.box
+{
+    padding:5px;
+    border:rgb(255, 255, 255);
+    border-radius: 50px;
+    background-image: url(https://i.pinimg.com/236x/ca/b2/35/cab2358d22f8ea14608c820d99a873c4.jpg);
+    background-size:auto
+}
+
+.wish
+{
+    color: rgb(185, 55, 245);
+    border: solid;
+    border-radius: 50px;
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(248, 246, 96);
+}
+
+.pic
+{
+    background-image:url(https://i.pinimg.com/236x/bd/46/65/bd4665311f6fd2f88e798f4e17e36581.jpg) ;
+    background-size: cover;
+    margin-right: 45px;
+    border-radius: 50px;
+    padding-top: 100px;
+    color: rgba(240, 255, 36, 0);
+}
+
+.thirdtier
+{
+  display: flex;
+  justify-content:safe;
+}
+
+.happy
+{
+    color: #dbd9b4;
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    margin-right: 300px;
+    background-color: #eca2d0;
+}
+
+.you
+{
+    color: rgb(158, 49, 153);
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left:300px;
+    background-color: rgb(218, 187, 53)
+}
+
+.footer
+{
+    color: rgb(222, 231, 85);
+    border: solid;
+    border-radius: 50px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(225, 73, 255)
+}
+
+.songnval
+{
+   display: flex;
+   justify-content:unset;
+}
+
+.song
+{
+    color: #f0e295;
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    width:200px;
+    height:200px;
+    margin-left:300px;
+    background-color: #857cb8;
+    margin-top:10px;
+}
+
+.lyric
+{
+    display: flex;
+    justify-content: center;
+    padding-right:25px;
+    padding-left:25px;
+}
+
+.singer
+{
+    padding-left:95px;
+}
+
+.play
+{
+    display: flex;
+    justify-content: center;
+}
+
+.values
+{
+    color: rgb(212, 201, 230);
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    background-color: rgb(240, 250, 103);
+    width:235px;
+    height:200px;
+    padding-right: 5px;
+    margin-top:10px;
+}
+
+.namjoon
+{
+    color: rgb(105, 90, 189);
+    border: solid;
+    border-radius: 50px;
+    padding: 20px;
+    padding-right: 5px;
+    background-image: url(https://i.pinimg.com/236x/d1/e9/13/d1e9135ac2849e872228a7ad38198056.jpg);
+    background-size: cover;
+    margin-right: 200px;
+    width: 150px;
+    margin-top:10px;
+}
+
+.edits
+{
+    color: rgb(206, 198, 82);
+    border: solid;
+    border-radius: 50px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: #c851d8;
+}
+
+.floor
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.swag
+{
+    color: #940094;
+    border: solid;
+    border-radius: 50px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    background-color: #e9ea97;
+}
+
+.link
+{
+    color: rgb(255, 211, 145);
+    border: solid;
+    border-radius: 50px;
+    padding: 15px;
+    justify-content: center;
+    margin-left:5px;
+    width: 200px;
+    background-color: #8b61ff;
+}
+
+.two
+{
+    background-image: url(https://i.pinimg.com/236x/f3/cf/1a/f3cf1a59ff69e8eae143c0668706daf6.jpg);
+    background-size:auto;
+    border-radius: 50px;
+}
